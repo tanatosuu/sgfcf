@@ -26,7 +26,7 @@ user,item=25677,25815
 #80%: k=250, beta=1.0, alpha=19, gamma=0.5
 #20: k=40, beta=2.0, alpha=5.3, gamma=0.025
 #Gowalla
-#80%: k=700, beta=1.3, alpha=15, gamma=1.6
+#80%: k=700, beta=1.3, eps=0.34, gamma=1.6
 #20%: k=110, beta=3.1, alpha=4.8, gamma=0.02~0.03
 
 
