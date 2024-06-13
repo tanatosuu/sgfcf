@@ -1,4 +1,4 @@
-# GDE
+# SGFCF
 Codes for the paper: How Powerful is Graph Filtering for Recommendation (KDD '24)
 
 # Hyperparameter Setting
