@@ -32,8 +32,8 @@ python sgfcf_wo_igf.py --dataset='yelp' --density='dense' --k=250 --beta=1.0 --a
 - Gowalla
 
 ```bash
-python sgfcf_wo_igf.py --dataset='gowalla' --density='sparse' --k=650 --beta=1.3 --eps=0.34 --gamma=1.6
-python sgfcf_wo_igf.py --dataset='gowalla' --density='dense' --k=110 --beta=3.1 --alpha=4.8 --gamma=0.02
+python sgfcf_wo_igf.py --dataset='gowalla' --density='sparse' --k=110 --beta=3.1 --alpha=4.8 --gamma=0.02
+python sgfcf_wo_igf.py --dataset='gowalla' --density='dense' --k=650 --beta=1.3 --eps=0.34 --gamma=1.6
 ```
 
 For SGFCF.py, only need to replace the beta with beta_1 and beta_2, other parameters are the same:
