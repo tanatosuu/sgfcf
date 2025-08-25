@@ -25,7 +25,7 @@ python sgfcf_wo_igf.py --dataset='pinterest' --density='dense' --k=300 --beta=1.
 
 ```bash
 python sgfcf_wo_igf.py --dataset='yelp' --density='sparse' --k=50 --beta=2.0 --alpha=5.3--gamma=0.025
-python sgfcf_wo_igf.py --dataset='yelp' --density='dense' --k=250 --beta=1.0 --alpha=10 --gamma=0.5
+python sgfcf_wo_igf.py --dataset='yelp' --density='dense' --k=250 --beta=1.0 --alpha=19 --gamma=0.5
 ```
 
 
