@@ -16,7 +16,7 @@ python sgfcf_wo_igf.py --dataset='citeulike' --density='dense' --k=1000 --beta=0
 
 ```bash
 python sgfcf_wo_igf.py --dataset='pinterest' --density='sparse' --k=60 --beta=2.0 --eps=0.37--gamma=0.07
-python sgfcf_wo_igf.py --dataset='pinterest' --density='dense' --k=300 --beta=1.0 --alpha=10 --gamma=0.3
+python sgfcf_wo_igf.py --dataset='pinterest' --density='dense' --k=300 --beta=1.0 --eps=0.37 --gamma=0.3
 ```
 
 
