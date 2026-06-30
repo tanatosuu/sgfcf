@@ -1,5 +1,6 @@
 # SGFCF
 Codes for the paper: How Powerful is Graph Filtering for Recommendation (KDD '24)
+and How Universal is Spectral Filtering for Recommendation (Under Review)
 
 # Hyperparameter Setting
 
@@ -36,7 +37,7 @@ python sgfcf_wo_igf.py --dataset='gowalla' --density='sparse' --k=110 --beta=3.1
 python sgfcf_wo_igf.py --dataset='gowalla' --density='dense' --k=650 --beta=1.3 --eps=0.34 --gamma=1.6
 ```
 
-For SGFCF.py, only need to replace the beta with beta_1 and beta_2, other parameters are the same:
+For SGFCF.py (svd_aligner.py and svd_denoiser.py), only need to replace the beta with beta_1 and beta_2, other parameters are the same:
 
 - CiteULike
 
